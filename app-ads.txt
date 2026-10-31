@@ -1,0 +1,3 @@
+# Replace the placeholder with the Publisher ID shown in AdMob > Settings before publishing.
+# Required final format:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
